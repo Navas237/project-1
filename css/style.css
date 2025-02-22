@@ -1095,12 +1095,16 @@ font-weight: 800;
     .heading .left-heading .top h1{
         font-size: 118px;
     }
+     .heading .left-heading .top h1{
+        font-size: 118px;
+    }
     
 }
 @media (max-width:1199px) {
     .heading .left-heading .top h1{
         font-size: 94px;
     }
+    
     .heading .left-heading {
 
         height: 50%;
